@@ -1,0 +1,162 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+a {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+    text-shadow: 2px 1px 0px #e7e5e5;
+}
+
+body {
+    background-image: url("../imgs/fundo.jpg");
+    padding: 0;
+    margin: 0;
+}
+
+table {
+    margin-top: 5%;
+    margin-left: 50px;
+    width: 90%;
+    color: chartreuse;
+}
+
+table tbody tr {
+    color: azure;
+    transition: all linear 100ms;
+}
+
+div img {
+    width: 30px;
+    height: 30px;
+}
+
+#painel {
+    background-image: linear-gradient( rgba(87, 5, 251, 0.29), rgba(250, 237, 174, 0.438));
+    height: 570px;
+    width: 900px;
+    margin: 55px 223px;
+    border: 1px solid rgb(5, 0, 0);
+    text-align: center;
+    border-radius: 20%;
+}
+
+div a div:hover {
+    background: #fcab32;
+}
+
+#painel div a {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+    text-shadow: 2px 1px 0px #e7e5e5;
+}
+
+#pergunta {
+    position: relative;
+    box-shadow: 2px 5px black;
+    border-radius: 50px;
+    font-size: 30px;
+    background: #e7e5e5;
+    border: 2px solid black;
+    height: 30%;
+    margin: 0px 140px 0px;
+    width: 70%;
+    display: block;
+}
+
+#campo-alternativas div {
+    text-align: center;
+    cursor: pointer;
+    border-radius: 30px;
+    font-size: 25px;
+    background: #e7e5e5;
+    border: 2px solid black;
+    height: 6%;
+    margin: 20px 140px;
+    width: 70%;
+}
+
+#campo-alternativas div:hover {
+    background: #42ff5bbe;
+}
+
+.alternativa-invisivel {
+    opacity: 0.2;
+    cursor: default !important;
+}
+
+.alternativa-invisivel:hover {
+    background: #e7e5e5 !important;
+}
+
+#ajudas {
+    position: relative;
+    padding: 70px 0 0 0;
+    font-size: 25px;
+}
+
+.ajuda-usada {
+    opacity: 0.5;
+    filter: grayscale(100%);
+    cursor: default !important;
+}
+
+#instruçao {
+    text-align: center;
+    border-radius: 70px;
+    border: 2px solid;
+    background-color: #e7e5e5;
+    height: 250;
+    font-size: x-large;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.menu {
+    background-color: bisque;
+    box-sizing: content-box;
+    margin: 20px 255px;
+    border-radius: 30px;
+    border: 2px solid black;
+    width: 45%;
+}
+
+#temporizador-progresso {
+    top: -7px;
+    left: 10px;
+    height: 6px;
+    position: absolute;
+    background: #42ff5bbe;
+    border-radius: 82px;
+}
+
+#jaula {
+    justify-content: center;
+}
+
+#grade {
+    text-shadow: 2px 2px 0px black;
+}
+
+#btn_mandarinfo {
+    border-radius: 20px;
+    background-color: bisque;
+    border: 2px solid black;
+    width: 10%;
+    cursor: pointer;
+}
+
+#btn_mandarinfo:hover {
+    background: #fcab32;
+}
+
+tbody tr td {
+    color: #fcab32;
+}

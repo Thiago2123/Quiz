@@ -1,0 +1,91 @@
+1) O que é uma estrela cadente?
+v	Meteoritos.
+f	Planetas.
+f	Estrelas Caindo.
+f	Nave espacial.
+z	lixo espacial.
+
+Dica: Parte de um corpo que se desintegrou ao entrar em contato com a Terra	
+
+2) Qual o planeta mais quente do Sistema Solar?
+v	Vênus, por sua atmosfera muito densa.
+f	Marte, por seus desertos quentes.
+f	Sol, por ser uma super nova de fogo.
+f	Júpiter, por ser um planeta composto de gases. 
+z	Mercúrio, por estar mais próximo do Sol.
+
+Dica: Deusa da mitologia romana, equivalente a Afrodite na mitologia
+grega.
+
+3) Qual é o planeta mais distante do Sol?
+v	Netuno.
+f	Júpiter.
+f	Mercurio.
+f	Vênus.
+z	Urano.
+
+Dica: É também o rei dos mares, com a cor azulada,na mitologia grega
+
+
+4) Qual o nome do primeiro astronauta a pisar na Lua?
+v	Neil Armstrong.
+f	Oniel Armestrong.
+f	Michael Jackson.
+f	Buzz Aldrin.
+z	Nill Armstrongue.
+
+Dica: Alden é o primeiro sobrenome dele 
+
+5) Como é chamado o centro de um buraco negro?
+v	Singularidade.
+f	Centro do buraco.
+f	Lado negro da força.
+f	Limite Temporal.
+z	Anomalida gravitacional.
+
+Dica: Qualidade do que é único, distinto, apenas uma vez
+
+6) A maior parte da massa do universo é formada por:
+v	Matéria escura.
+f	Átomos.
+f	Hélio.
+f	Prótons.
+z	Carbono.
+
+Dica: É uma forma postulada de massa que não interage com a matéria comum, nem consigo mesma 
+
+7) Quantos planetas, atualmente, tem o Sistema Solar?
+v	8 Planetas.
+f	7 Planetas.
+f	5 Planetas.
+f	10 Planetas.
+z	9 Planetas.
+
+Dica: Plutão não é mais considerado planeta, 2² + 2²
+
+8) Plutão, agora, é considerado um planeta anão, juntamente com dois planetas anões. Quais os nomes desses planetas anões?
+v	Ceres e Sedna.
+f	Plutão e HFLS3.
+f	Titã e Beta.
+f	Ceres e Titã.
+z	Beta e Alfa.
+
+Dica: Deusa romana da agricultura, Tirando a primeira letra do nome, é identico ao nome de uma pessoa;
+
+9) Os nomes dos planetas foram dados referentes aos:
+v	Os deuses da greco-romana.
+f	Nomes de pets dos politicos Americanos.
+f	Microorganismos Marinhos.
+f	Reis da Grécia antiga.
+z	Personagens da história Òdiceia.
+
+Dica: Os primeiros a batizar planetas foram os sumérios, e acreditaram que fossem deuses.
+
+10) Por que Marte é conhecido como planeta Vermelho?
+v	Por causa de sua coloração avermelhada natural.
+f	Por ser proximo ao Sol, ele fica avermelhado.
+f	Por jogarem corante vermelho nas terras.
+f	Por causa dos rubis que ali existem.
+z	Por sua superficie ser muito quente. 
+
+Dica: Grande concentração de óxido de ferro no solo naturalmente.
