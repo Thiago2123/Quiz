@@ -1,7 +1,14 @@
 <?php
 
 function connection(){
-    return new PDO("pgsql:host=localhost dbname=Quiz user=postgres password=postgres");
+    
+    $host = "localhost";
+    $user = "root";
+    $pass = "";
+    $dbname = "Quiz";
+    $port = 3306;
+
+    return new PDO("mysql:host=$host;port=$port;dbname=" . $dbname, $user, $pass);
 }
 
 function pre($var){

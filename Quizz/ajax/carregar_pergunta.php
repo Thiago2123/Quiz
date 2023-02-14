@@ -8,10 +8,11 @@ $connection = connection();
 $query = implode(" ", [
     "SELECT *",
     "FROM pergunta",
-    "ORDER BY id_pergunta",
+    "ORDER BY RAND(id_pergunta)",
     "LIMIT 1",
-    "OFFSET {$numero_pergunta} - 1"
+    "OFFSET {$numero_pergunta} "
 ]);
+//echo $query;
 
 $res = $connection -> query($query);
 $pergunta = $res -> fetch(2);
@@ -20,7 +21,7 @@ $query = implode(" ", [
     "SELECT texto, tipo",
     "FROM resposta",
     "WHERE id_pergunta = {$pergunta["id_pergunta"]}",
-    "ORDER BY random()"
+    "ORDER BY RAND () "
 ]);
 
 $res = $connection -> query($query);
